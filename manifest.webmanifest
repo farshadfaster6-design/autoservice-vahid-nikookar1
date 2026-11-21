@@ -1,0 +1,19 @@
+{
+  "name": "اتوسرویس وحید نیکوکار",
+  "short_name": "وحید نیکوکار",
+  "description": "جلوبندی، زیربندی و تنظیم زاویه چرخ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f0e6",
+  "theme_color": "#12161a",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

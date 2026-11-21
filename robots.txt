@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://farshadfaster6-design.github.io/autoservice-vahid-nikookar1/sitemap.xml
